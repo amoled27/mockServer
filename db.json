@@ -1,61 +1,61 @@
   {
-    name: "",
-    pages: [
+    "name": "",
+    "pages": [
       {
-        name: "page 1",
-        address: "p1",
+        "name": "page 1",
+        "address": "p1",
       },
     ],
   },
   {
-    name: "PART 1",
-    pages: [
+    "name": "PART 1",
+    "pages": [
       {
-        name: "page 2",
-        address: "p2",
+        "name": "page 2",
+        "address": "p2",
       },
       {
-        name: "page 3",
-        address: "p3",
+        "name": "page 3",
+        "address": "p3",
       },
       {
-        name: "page 4",
-        address: "p4",
-      },
-    ],
-  },
-  {
-    name: "PART 2",
-    pages: [
-      {
-        name: "page 5",
-        address: "p5",
-      },
-      {
-        name: "page 6",
-        address: "p6",
+        "name": "page 4",
+        "address": "p4",
       },
     ],
   },
   {
-    name: "PART 3",
-    pages: [
+    "name": "PART 2",
+    "pages": [
       {
-        name: "page 7",
-        address: "p7",
+        "name": "page 5",
+        "address": "p5",
       },
       {
-        name: "page 8",
-        address: "p8",
+        "name": "page 6",
+        "address": "p6",
       },
     ],
   },
   {
-    name: "",
-    pages: [
+    "name": "PART 3",
+    "pages": [
       {
-        name: "page 9",
-        address: "p9",
+        "name": "page 7",
+        "address": "p7",
+      },
+      {
+        "name": "page 8",
+        "address": "p8",
+      },
+    ],
+  },
+  {
+    "name": "",
+    "pages": [
+      {
+        "name": "page 9",
+        "address": "p9",
       },
     ],
   },
