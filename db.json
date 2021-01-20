@@ -1,14 +1,61 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  {
+    name: "",
+    pages: [
+      {
+        name: "page 1",
+        address: "p1",
+      },
+    ],
+  },
+  {
+    name: "PART 1",
+    pages: [
+      {
+        name: "page 2",
+        address: "p2",
+      },
+      {
+        name: "page 3",
+        address: "p3",
+      },
+      {
+        name: "page 4",
+        address: "p4",
+      },
+    ],
+  },
+  {
+    name: "PART 2",
+    pages: [
+      {
+        name: "page 5",
+        address: "p5",
+      },
+      {
+        name: "page 6",
+        address: "p6",
+      },
+    ],
+  },
+  {
+    name: "PART 3",
+    pages: [
+      {
+        name: "page 7",
+        address: "p7",
+      },
+      {
+        name: "page 8",
+        address: "p8",
+      },
+    ],
+  },
+  {
+    name: "",
+    pages: [
+      {
+        name: "page 9",
+        address: "p9",
+      },
+    ],
+  },
